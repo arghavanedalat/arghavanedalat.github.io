@@ -12,11 +12,11 @@ paginate_path: "/blog/page:num/"
 title: Arghavan Edalat
 subtitle: Master's student in Data Science
 
- left_side:
-  background_image: "https://www.american.edu/spa/data-science/images/datascience-hero.jpg"
+left_side:
+  background_image: "./assets/images/left-background.jpg"
   background_color: "#F00"
-   close_button_color: "#F00"
-   text_color: "#F00"
+  close_button_color: "#F00"
+  text_color: "#F00"
 
 
 # Side Menu Links
