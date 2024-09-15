@@ -25,14 +25,6 @@ menu:
     link: /
     icon: ""
 
-  - text: Skills & Offers
-    link: /skills-and-offers
-    icon: ""
-
-  - text: Contact Me
-    link: /contact
-    icon: ""
-
   - text: My CV
     link: /resume
     icon: ""
