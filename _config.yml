@@ -13,8 +13,7 @@ title: Arghavan Edalat
 subtitle: Master's student in Data Science
 
 left_side:
-  background_image: "./assets/images/left-background.jpg"
-  background_color: "#F00"
+  background_image: "https://t4.ftcdn.net/jpg/02/43/75/73/360_F_243757367_gBpS6R5c8DB7pL5gw9gi9KXlzFfbdZOA.jpg"
   close_button_color: "#F00"
   text_color: "#F00"
 
