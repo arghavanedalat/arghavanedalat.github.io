@@ -13,7 +13,7 @@ title: Arghavan Edalat
 subtitle: Master's student in Data Science
 
 # left_side:
-#   background_image: https://www.american.edu/spa/data-science/images/datascience-hero.jpg
+#   background_image: "https://www.american.edu/spa/data-science/images/datascience-hero.jpg"
 #   background_color: "#F00"
 #   close_button_color: "#F00"
 #   text_color: "#F00"
