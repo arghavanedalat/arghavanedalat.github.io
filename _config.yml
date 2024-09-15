@@ -9,8 +9,8 @@ defaults:
 paginate: 10
 paginate_path: "/blog/page:num/"
 
-title: Christian Ezeani
-subtitle: Full-Stack Developer
+title: Arghavan Edalat
+subtitle: Master's student in Data Science
 
 # left_side:
 #   background_image: "./assets/images/left-background.jpg"
@@ -18,8 +18,6 @@ subtitle: Full-Stack Developer
 #   close_button_color: "#F00"
 #   text_color: "#F00"
 
-footer:
-  copyright_text: "&copy; Christian Ezeani"
 
 # Side Menu Links
 menu:
