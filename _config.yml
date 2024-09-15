@@ -12,9 +12,9 @@ paginate_path: "/blog/page:num/"
 title: Arghavan Edalat
 subtitle: Master's student in Data Science
 
- left_side:
+left_side:
   background_image: "https://img.freepik.com/free-photo/vertical-shot-beautiful-starry-sky_181624-25916.jpg?w=360"
-   text_color: "#FFFFFF"
+  text_color: "#FFFFFF"
 
 
 # Side Menu Links
